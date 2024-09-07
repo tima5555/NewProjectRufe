@@ -1,4 +1,4 @@
-# labyrinth game
+# Игра Лабиринт
 **Название файла с кодом игры - Pacman_project**
 
 
